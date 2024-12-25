@@ -1,8 +1,13 @@
 //synchronous function
-void dummy(){
-  return ;
+void dummy() {
+  return;
 }
+
 //asynchronous
-String  dumms(){
+String dumms() {
+  return "hello";
+}
+
+String dummss() {
   return "hello";
 }
